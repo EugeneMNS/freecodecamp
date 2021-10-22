@@ -72,3 +72,6 @@ var c = 33;
 a /=  12;
 b /=  4;
 c /=  11;
+
+const myFirstName ="Bosch"
+const myLastName = "Roberto"
