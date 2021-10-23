@@ -75,3 +75,5 @@ c /=  11;
 
 const myFirstName ="Bosch"
 const myLastName = "Roberto"
+
+var myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
