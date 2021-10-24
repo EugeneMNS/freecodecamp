@@ -90,3 +90,10 @@ var myStr = "My name" + myName + "and I am well!";
 var someAdjective = "Bob";
 var myStr = "Learning to code is ";
 myStr += someAdjective
+
+// Setup
+var lastNameLength = 0;
+var lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
