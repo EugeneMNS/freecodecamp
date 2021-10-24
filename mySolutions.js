@@ -86,3 +86,7 @@ myStr += "This is the second sentence."
 // Only change code below this line
 var myName = "Roberto";
 var myStr = "My name" + myName + "and I am well!";
+
+var someAdjective = "Bob";
+var myStr = "Learning to code is ";
+myStr += someAdjective
