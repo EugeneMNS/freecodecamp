@@ -129,3 +129,12 @@ var lastName = "Lovelace";
 
 // Only change code below this line
 var secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
+
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+
+// Only change code below this line
+var wordBlanks = myNoun + " "  + myVerb + " " + myAdjective + " " + myAdverb + " " + "Bad boy"; // Change this line
+// Only change code above this line
