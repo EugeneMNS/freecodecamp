@@ -138,3 +138,5 @@ var myAdverb = "quickly";
 // Only change code below this line
 var wordBlanks = myNoun + " "  + myVerb + " " + myAdjective + " " + myAdverb + " " + "Bad boy"; // Change this line
 // Only change code above this line
+
+var myArray = ["string", 6];
