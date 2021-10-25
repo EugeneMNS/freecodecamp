@@ -140,3 +140,5 @@ var wordBlanks = myNoun + " "  + myVerb + " " + myAdjective + " " + myAdverb + "
 // Only change code above this line
 
 var myArray = ["string", 6];
+
+var myArray = [['first'], ['second']];
