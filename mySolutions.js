@@ -142,3 +142,6 @@ var wordBlanks = myNoun + " "  + myVerb + " " + myAdjective + " " + myAdverb + "
 var myArray = ["string", 6];
 
 var myArray = [['first'], ['second']];
+
+var myArray = [50,60,70];
+let myData = myArray[0];
