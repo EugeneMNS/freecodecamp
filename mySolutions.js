@@ -184,3 +184,8 @@ myArray.shift();
 myArray.unshift(["Paul", 35]);
 
 const myList = [["Milk", 1], ["Tomato", 5], ['Apple', 8], ["Tea", 1], ["Coffee", 3]];
+
+function reusableFunction() {
+  console.log("Hi World");
+}
+reusableFunction ();
