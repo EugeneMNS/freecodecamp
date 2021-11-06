@@ -718,3 +718,10 @@ const myDog = {
 };
 // Only change code below this line
 myDog["name"]="Happy Coder"
+const myDog = {
+  "name": "Happy Coder",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["freeCodeCamp Campers"]
+};
+myDog.bark ="woof"
