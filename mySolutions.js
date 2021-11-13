@@ -783,3 +783,27 @@ const testArr = [1, 2, 3, 4, 5];
 console.log("Before: " + JSON.stringify(testArr));
 console.log(nextInLine(testArr, 6));
 console.log("After: " + JSON.stringify(testArr));
+
+const myMusic = [
+    {
+      artist: 'Imagine Dragons',
+      title: 'Natural',
+      release_year: 2018,
+      formats: [
+        'CD',
+        '8T',
+        'LP'
+      ]
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "Piano Man",
+      "release_year": 1973,
+      "formats": [
+        "CD",
+        "8T",
+        "LP"
+      ],
+      "gold": true
+    }
+  ];
