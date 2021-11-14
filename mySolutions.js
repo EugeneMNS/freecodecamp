@@ -842,7 +842,13 @@ const myPlants = [
 ];
 
 const secondTree = myPlants[1].list[1];
+// Setup
+const myArray = [];
 
+// Only change code below this line
+for (let i=1; i<6; i++ ){
+  myArray.push(i);
+}
 // Setup
 const myArray = [];
 
