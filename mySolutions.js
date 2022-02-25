@@ -2,7 +2,6 @@
 /* second comment */
 
 var myName;
-
 // Setup
 var a;
 a = 7;
